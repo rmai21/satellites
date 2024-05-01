@@ -1,14 +1,4 @@
 # Satellites
-<<<<<<< HEAD
-
-## Project Description
-A web application with a React.js frontend and a Flask backend //add more later
-
-## Project Documentation 
-
-## Project Live Demo
-[Video of web application in progress]
-=======
 
 ## Features/Technologies Used
 - React.js
@@ -19,14 +9,12 @@ A web application with a React.js frontend and a Flask backend //add more later
 
 ## Project Timeline 
 
-- [ ] Initial Phase (07/30/23 - 08/12/23) 
+- [ ] Initial Phase (05/01/24 - 05/07/24) --In progress
 
-- [ ] Phase One: Data Schemas & Prototype Design (08/12/23 - 08/30/23)  
+- [ ] Phase One: Data Schemas & Prototype Design (05/07/24 - 05/14/24)  
 
-- [ ] Phase Two: Displaying Proper Data and User Interface (08/30/23 - 09/30/23) 
+- [ ] Phase Two: Displaying Proper Data and User Interface (05/14/24 - 05/30/24) 
 
-- [ ] Phase 3: Testing and Debugging (09/30/23 - 10/31/23)
+- [ ] Phase 3: Testing and Debugging (05/30/24 - 06/05/24)
       
-- [ ] Final Phase: Deployment (10/31/23 - 11/07/23)
-
->>>>>>> 3b7883d9ecfc68b1fbf1de25c5959fa564ef73ff
+- [ ] Final Phase: Deployment (06/05/24 - 06/14/24)
