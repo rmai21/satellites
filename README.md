@@ -1,10 +1,13 @@
 # Satellites
 
+## Description
+- A web application with the ability to showcase the position and velocity vectors of a given space station satellite at a given time, through a search feature as well as showcasing the full list of space station satellites in the provided TLE data. (https://celestrak.org/NORAD/elements/gp.php?GROUP=stations&FORMAT=tle)
+
 ## Features/Technologies Used
-- React.js
-- Flask
-- MongoDb
-- Webscraping
+- React.js (Frontend)
+- Flask (Backend)
+- MongoDb (Data Organization)
+- Webscraping (Data Extraction)
 - Full Stack Web Application 
 
 ## Project Timeline 
